@@ -7,8 +7,19 @@ body {
 	font-family: 'Emilys Candy', cursive;
 }
 
+header {
+	background-image: url(../img/3BossBitches.jpg);
+	color: rgb(194, 84, 160);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 500px;
+	height: 1000px;
+	margin: 0 auto;
+	line-height: 500px;
+}
+
 div {
-	margin: 60px auto 0 auto;
+	margin: -700px auto 0 auto;
 	padding: 50px 40px;
 	background: rgba(265, 265, 265, .9);
 	width: 50%;
